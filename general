@@ -10,17 +10,11 @@
 0.0.0.0 domainname-error.com
 0.0.0.0 facebook.com
 0.0.0.0 www.facebook.com
-0.0.0.0 prod.mozaws.net
-0.0.0.0 services.mozilla.com
-0.0.0.0 shavar.services.mozilla.com
-0.0.0.0 add0n.com
 0.0.0.0 nfshost.com
+0.0.0.0 www.nfshost.com
+0.0.0.0 nearlyfreespeech.net
+0.0.0.0 www.nearlyfreespeech.net
 0.0.0.0 ocsp.digicert.com
-0.0.0.0 cs9.wac.phocdn.net
-0.0.0.0 extension.ghostery.com
-0.0.0.0 adphonso.com
-0.0.0.0 cmp-cdn.ghostery.com
-0.0.0.0 cdn.mozilla.net
 0.0.0.0 airdownload2.adobe.com
 0.0.0.0 adobe.com
 0.0.0.0 data.runreproducerow.com
@@ -29,12 +23,6 @@
 0.0.0.0 addthis.com
 0.0.0.0 s7.addthis.com
 0.0.0.0 www.addthis.com
-0.0.0.0 search.services.mozilla.com
-0.0.0.0 push.services.mozilla.com
-0.0.0.0 location.services.mozilla.com
-0.0.0.0 aus5.mozilla.org
-0.0.0.0 0.0.0.0 versioncheck.prod.mozaws.net
-0.0.0.0 versioncheck-bg.addons.mozilla.org
 0.0.0.0 config.edge.skype.com
 0.0.0.0 ocos-office365-s2s.msedge.net
 0.0.0.0 paypal.com
@@ -42,10 +30,5 @@
 0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 api.github.com
 0.0.0.0 fs.microsoft.com
-0.0.0.0 support.mozilla.org
-0.0.0.0 self-repair.mozilla.org
-0.0.0.0 0.0.0.0 snippets.cdn.mozilla.net
-0.0.0.0 switchboard.services.mozilla.com
-0.0.0.0 search.r53-2.services.mozilla.com
 0.0.0.0 update.getsync.com
 0.0.0.0 analytics.any.do
