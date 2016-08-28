@@ -1,3 +1,3 @@
 # hosts2016
-block list for pi-hole
-block list merging to adguard mobile
+block list for pi-hole</br>
+merged to adguard mobile
