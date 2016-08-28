@@ -33,3 +33,8 @@
 ||203.94.243.40
 ||adobe.com
 ||.adobe.com
+||paypal.com
+||*.paypal.com
+||update.getsync.com
+||any.do
+||*.any.do
