@@ -1,3 +1,7 @@
-# hosts2016
-block list for pi-hole</br>
-merged to adguard mobile
+# Block list for pi-hole
+android - android mobile related</br>
+bsnl - isp bsnl related</br>
+general  - general</br>
+mozilla  - mozilla, firefox related</br>
+whitelist - exception list</br>
+adguard-mobile - merged for adguard mobile</br>
