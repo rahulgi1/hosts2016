@@ -1,40 +1,32 @@
-0.0.0.0 ergoledo.com
-0.0.0.0 trafficholder.com
-0.0.0.0 runreproducerow.com
-0.0.0.0 xcams.com
-0.0.0.0 addthis.com
-0.0.0.0 injections.adguard.com
-0.0.0.0 injections1.adguard.com
-0.0.0.0 injections2.adguard.com
-0.0.0.0 injections3.adguard.com
-0.0.0.0 domainname-error.com
-0.0.0.0 facebook.com
-0.0.0.0 www.facebook.com
-0.0.0.0 nfshost.com
-0.0.0.0 www.nfshost.com
-0.0.0.0 nearlyfreespeech.net
-0.0.0.0 www.nearlyfreespeech.net
-0.0.0.0 ocsp.digicert.com
-0.0.0.0 airdownload2.adobe.com
-0.0.0.0 adobe.com
-0.0.0.0 data.runreproducerow.com
-0.0.0.0 runreproducerow.com
-0.0.0.0 xcams.com
-0.0.0.0 addthis.com
-0.0.0.0 s7.addthis.com
-0.0.0.0 www.addthis.com
-0.0.0.0 config.edge.skype.com
-0.0.0.0 ocos-office365-s2s.msedge.net
-0.0.0.0 paypal.com
-0.0.0.0 www.paypal.com
-0.0.0.0 ctldl.windowsupdate.com
-0.0.0.0 api.github.com
-0.0.0.0 fs.microsoft.com
-0.0.0.0 update.getsync.com
-0.0.0.0 analytics.any.do
-0.0.0.0 helpasusapplock0.ksmobile.com
-0.0.0.0 adtidy.org
-0.0.0.0 sb.adtidy.org
-0.0.0.0 ru.sb.adtidy.org
-0.0.0.0 us.sb.adtidy.org
-0.0.0.0 sm-prod2.any.do
+ergoledo.com
+trafficholder.com
+runreproducerow.com
+xcams.com
+addthis.com
+injections.adguard.com
+injections1.adguard.com
+injections2.adguard.com
+injections3.adguard.com
+facebook.com
+www.facebook.com
+nfshost.com
+www.nfshost.com
+nearlyfreespeech.net
+www.nearlyfreespeech.net
+ocsp.digicert.com
+airdownload2.adobe.com
+adobe.com
+data.runreproducerow.com
+runreproducerow.com
+xcams.com
+addthis.com
+s7.addthis.com
+www.addthis.com
+config.edge.skype.com
+ocos-office365-s2s.msedge.net
+paypal.com
+www.paypal.com
+ctldl.windowsupdate.com
+api.github.com
+fs.microsoft.com
+update.getsync.com
