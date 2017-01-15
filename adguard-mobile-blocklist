@@ -52,17 +52,17 @@
 ||mis.asapkerala.gov.in/asap/js/custom/user/statistics_to_admin_view.js
 @@||fota.asus.com
 ||anonymousstats.keefox.org
-todo.ly##.highlight2[href="/Upgrade"]
-todo.ly##.highlight2[href="https://itunes.apple.com/us/app/todo.ly/id645869046?mt=8"]
-todo.ly###AddItemNotesSpan
-todo.ly##[src="images/note.png"]
-todo.ly###NotesAllText
-todo.ly##A[href="#editNotes"]
-todo.ly###removeNotes[href="#removeNotes"]
-todo.ly##.FooterDiv
-todo.ly###ItemNotesBtn.ItemNotesBtn
-todo.ly##A[href="#share"]
-todo.ly###DoneItemsDeleteLink
-todo.ly##IMG[src="/Images/logo2.png"][style="padding-top: 5px; border: 0px;"]
-todo.ly##A[href="#settings_ProPanel"]
-todo.ly##A[href="#settings_Account"]
+||todo.ly##.highlight2[href="/Upgrade"]
+||todo.ly##.highlight2[href="https://itunes.apple.com/us/app/todo.ly/id645869046?mt=8"]
+||todo.ly###AddItemNotesSpan
+||todo.ly##[src="images/note.png"]
+||todo.ly###NotesAllText
+||todo.ly##A[href="#editNotes"]
+||todo.ly###removeNotes[href="#removeNotes"]
+||todo.ly##.FooterDiv
+||todo.ly###ItemNotesBtn.ItemNotesBtn
+||todo.ly##A[href="#share"]
+||todo.ly###DoneItemsDeleteLink
+||todo.ly##IMG[src="/Images/logo2.png"][style="padding-top: 5px; border: 0px;"]
+||todo.ly##A[href="#settings_ProPanel"]
+||todo.ly##A[href="#settings_Account"]
