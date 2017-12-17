@@ -17,3 +17,8 @@ quizstar.4teachers.org###cookiesandjavascriptcheckform > h3 > strong:last-child
 quizstar.4teachers.org###student_home_instr > h4:nth-child(2) > strong
 quizstar.4teachers.org###footer
 quizstar.4teachers.org##table:first-child > tbody > tr:first-child > td > table:first-child > tbody > tr > td > table > tbody > tr:first-child > td > table > tbody > tr > td:last-child > font
+quizstar.4teachers.org###content > div:nth-child(2) > table > tbody > tr:first-child > td:nth-child(2)
+quizstar.4teachers.org###container_noads_fixed > div:first-child
+quizstar.4teachers.org###content > div:nth-child(2) > table > tbody > tr:first-child > td:first-child > a:first-child
+quizstar.4teachers.org##table:first-child > tbody > tr:last-child > td > table > tbody > tr > td.footer
+quizstar.4teachers.org##table:first-child > tbody > tr:first-child > td > table:first-child > tbody > tr > td > table > tbody > tr:first-child > td > table > tbody > tr > td:last-child
